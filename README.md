@@ -32,7 +32,8 @@ while True:
 ```
 ## OUPUT:
 ## Client:
-![image](https://github.com/user-attachments/assets/6b954b3f-6b7a-46ca-89d7-931a7d972cdc)
+![image](https://github.com/user-attachments/assets/42ee03d8-2bf7-4f05-a9e0-faefd74874b2)
+
 
 ## Server:
 ![image](https://github.com/user-attachments/assets/87fa020e-fc5b-4d9f-a5aa-4169c65355ce)
